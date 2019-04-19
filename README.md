@@ -16,4 +16,4 @@ https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/
 
 ## Preview
 
-![Image of Yaktocat](https://github.com/ramonhoyo/calculator-react/tree/master/src/images/Captura.PNG)
+![Calculator React](src/images/Captura.PNG)
