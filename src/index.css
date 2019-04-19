@@ -13,20 +13,28 @@ code {
     monospace;
 }
 
-.division {  grid-area: _division;  }
-.product  {  grid-area: _product;   }
-.result   {  grid-area: _result;    }
-.minus    {  grid-area: _minus;     }
-.seven    {  grid-area: _seven;     }
-.eight    {  grid-area: _eight;     }
-.three    {  grid-area: _three;     }
-.point    {  grid-area: _point;     }
-.plus     {  grid-area: _plus;      }
-.zero     {  grid-area: _zero;      }
-.nine     {  grid-area: _nine;      }
-.four     {  grid-area: _four;      }
-.five     {  grid-area: _five;      }
-.six      {  grid-area: _six;       }
-.two      {  grid-area: _two;       } 
-.one      {  grid-area: _one;       }
-.ac       {  grid-area: _ac;        }
+#root {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #bdbdbd;
+}
+
+#divide {  grid-area: _divide;  }
+#multiply  {  grid-area: _multiply;   }
+#equals   {  grid-area: _equals;    }
+#subtract    {  grid-area: _subtract;     }
+#seven    {  grid-area: _seven;     }
+#eight    {  grid-area: _eight;     }
+#three    {  grid-area: _three;     }
+#decimal    {  grid-area: _decimal;     }
+#add     {  grid-area: _add;      }
+#zero     {  grid-area: _zero;      }
+#nine     {  grid-area: _nine;      }
+#four     {  grid-area: _four;      }
+#five     {  grid-area: _five;      }
+#six      {  grid-area: _six;       }
+#two      {  grid-area: _two;       } 
+#one      {  grid-area: _one;       }
+#clear       {  grid-area: _clear;        }
