@@ -14,3 +14,6 @@ https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/
     * under folder run "npm start"
     * enjoy
 
+## Preview
+
+![Image of Yaktocat](https://github.com/ramonhoyo/calculator-react/tree/master/src/images/Captura.PNG)
